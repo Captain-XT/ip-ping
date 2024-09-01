@@ -1,9 +1,7 @@
-<h2 align="center">Website ip ping</h2>
-<h2 align="center">git clone git https://github.com/Captain-XT/ip-ping.git</h2>
+<h1 align="center">Website ip ping</h1>
 <h2 align="center">apt install python3</h2>
 <h2 align="center">pip install pyfiglet</h2>
 <h3 align="center">A passionate python Tools creator in. Bangladesh</h3>
-<img aling="right" alt="coding" widht="400" src="https://images.app.goo.gl/UNR68u5ZMV7Lt3iS7"
 
 - 📫 How to reach me **termuxbughunter@gmail.com**
 
